@@ -1,2 +1,2 @@
 # A NICE CUP OF TEA
- ~~just a cup of tea (pure CSS)~~
+ ~~an animated cup of tea using pure CSS~~
